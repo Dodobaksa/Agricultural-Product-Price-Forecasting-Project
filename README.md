@@ -1,4 +1,4 @@
-# Agricultural-Product-Price-Forecasting-Project-with-Ontuin
+# Agricultural-Product-Price-Forecasting-Project
 This repository contains the code for ultra long time-series forecasting
 
 ___
